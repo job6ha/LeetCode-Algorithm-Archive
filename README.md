@@ -85,26 +85,6 @@ LeetCode 풀이를 “번호 기반 단일 경로”에 아카이빙하는 저�
 ## Tagging Policy (INDEX.md)
 
 다중 토픽 문제를 폴더로 중복 분류하지 않고, **태그로만 분류**합니다.
-태그는 난립을 막기 위해 가능한 “고정된 세트”로 운영합니다.
-
-권장 태그 예시:
-
-* #arrays-strings
-* #hash-set
-* #two-pointers
-* #sliding-window
-* #stack-queue
-* #binary-search
-* #linked-list
-* #tree
-* #graph
-* #heap
-* #dp
-* #greedy
-* #backtracking
-* #intervals
-* #math
-
 ---
 
 ## Commit Convention
