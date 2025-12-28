@@ -14,14 +14,14 @@
   - `- [#### Title](solutions-by-number/####-slug/) — <Difficulty> — <Lang> — <YYYY-MM-DD> — #tag #tag ...`
 
 예시:
-- [0001 Two Sum](solutions-by-number/0001-two-sum/) — Easy — Python — 2025-12-28 — #arrays-strings #hash-set
+- [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
 ---
 
 ## By Difficulty
 
 ### Easy
-- (add here)
+- [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
 ### Medium
 - (add here)
@@ -33,53 +33,14 @@
 
 ## By Tags
 
-### #arrays-strings
-- (add here)
+### Array
+- [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
-### #hash-set
-- (add here)
-
-### #two-pointers
-- (add here)
-
-### #sliding-window
-- (add here)
-
-### #stack-queue
-- (add here)
-
-### #binary-search
-- (add here)
-
-### #linked-list
-- (add here)
-
-### #tree
-- (add here)
-
-### #graph
-- (add here)
-
-### #heap
-- (add here)
-
-### #dp
-- (add here)
-
-### #greedy
-- (add here)
-
-### #backtracking
-- (add here)
-
-### #intervals
-- (add here)
-
-### #math
-- (add here)
+### Hash Table
+- [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
 ---
 
-## Recently Solved (Optional)
-
+## Recently Solved
 - (최근 풀이를 날짜 내림차순으로 10개 정도만 유지)
+- [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
