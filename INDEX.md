@@ -24,7 +24,7 @@
 - [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
 ### Medium
-- (add here)
+- [00002 Add Two Numbers](solutions-by-number/00002-Add%20Two%20Numbers/) - Medium - Python - 2026-01-04 - Linked List, Math, Recursion
 
 ### Hard
 - (add here)
@@ -39,8 +39,18 @@
 ### Hash Table
 - [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
 
+### Linked List
+- [00002 Add Two Numbers](solutions-by-number/00002-Add%20Two%20Numbers/) - Medium - Python - 2026-01-04 - Linked List, Math, Recursion
+
+### Math
+- [00002 Add Two Numbers](solutions-by-number/00002-Add%20Two%20Numbers/) - Medium - Python - 2026-01-04 - Linked List, Math, Recursion
+
+### Recursion
+- [00002 Add Two Numbers](solutions-by-number/00002-Add%20Two%20Numbers/) - Medium - Python - 2026-01-04 - Linked List, Math, Recursion
+
 ---
 
 ## Recently Solved
 - (최근 풀이를 날짜 내림차순으로 10개 정도만 유지)
+- [00002 Add Two Numbers](solutions-by-number/00002-Add%20Two%20Numbers/) - Medium - Python - 2026-01-04 - Linked List, Math, Recursion
 - [00001 Two Sum](solutions-by-number/00001-Two%20Sum/) - Easy - Python - 2025-12-28 - Array, Hash Table
